@@ -1,0 +1,11 @@
+node_modules/
+.DS_Store
+
+# Renders — keep the folder, ignore the exports
+out/*
+!out/.gitkeep
+
+# Remotion caches
+.remotion/
+build/
+*.log
